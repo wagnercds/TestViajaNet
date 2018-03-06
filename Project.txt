@@ -1,0 +1,5 @@
+O projeto RabbitMQServer é um  programa  de console que recebe os log de navegação e salva o documento no CouchBase e também demonstra o uso do Map/Reduce demonstrando as funções mais utilizadas pelo cliente.
+
+O projeto TestLog é um Web Application que gera os logs para testar o projeto RabbitMQServer.
+
+Nesta mesma pasta coloquei o arquivo demonstrando a função MAP e Reduce utilizada na view no CouchBase.
